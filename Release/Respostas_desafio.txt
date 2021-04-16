@@ -1,0 +1,17 @@
+Questões 
+
+Responda sucintamente os itens a seguir em um .txt levando as perguntas e as respostas para o controle de versão da maneira que julgar mais apropriado: 
+1.	A solução deve ser disponibilizada em Cloud ou On-premise?
+R: A solução pode ser disponibilizada em ambas as opções dependendo qual for mais atrativa pra empresa. Caso a empresa tenha um time qualificado e infraestrutura para dar suporte a solução, a disponibilização por on-premise é uma solução. Caso, a empresa queira abstrair essa camada de onde ficaram esses dados, e apenas consumir essa informação a disponibilização por cloud é uma boa opção. 
+
+2.	Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe, a ferramenta é ágil? 
+R: Jira, a ferramenta é agil.
+
+3.	Você se sente capaz de liderar esta equipe? Por quê? 
+R: A nível técnico não. Devido acreditar que tal solução necessita de implementações utilizando banco de dados e servidores, e por não possuir muita experiência com estas implementações, não me vejo como um líder técnico para a implementação dessa solução. Acredito que devido a minha inexperiência iria levar mais tempo que o necessário para implementar tais features de forma otimizada. A nível de processo sim. Pois por possuir experiência com desenvolvimento de projetos utilizando métodos ágeis, acredito que conseguiria conduzir o time.
+
+4.	Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+R: Na feature que desenvolvi cabe algumas melhorias, sendo elas: integração com um banco de dados, utilização de web service para consulta de cpf para checar se é válido, melhor UI.
+
+5.	Acha válido esse desafio para o processo que está participando?
+R: Sim, pois o desafio é abrangente deixando quem o desenvolve confortável para determinar o quão a fundo ele irá adentrar na solução. 
