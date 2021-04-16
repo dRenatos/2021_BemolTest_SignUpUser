@@ -2,7 +2,7 @@
 
 ## Overview
 
-	Este projeto foi desenvolvido na engine Unity, tendo como propósito cumprir os desafios propostos pelo teste de engenheiro de software da empresa Bemol Digital. Aqui esta tanto o código fonte quanto uma release do projeto, sendo o build target a plataforma **Windows**.
+	Este projeto foi desenvolvido na engine Unity, tendo como propósito cumprir os desafios propostos pelo teste de engenheiro de software da empresa Bemol Digital. Aqui esta tanto o código fonte quanto uma release do projeto, sendo o build target a plataforma Windows.
 
 ## Rodando a build gerada
 
