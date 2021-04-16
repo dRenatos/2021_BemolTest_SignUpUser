@@ -7,8 +7,8 @@ Este projeto foi desenvolvido na engine Unity, tendo como propósito cumprir os 
 ## Rodando a build gerada
 
 Para rodar a build siga os passos:
-	1. Vá no diretório Release -> Pc;
-	2. Clique em 2021_BemolTest_SignUpUser.exe.
+1. Vá no diretório Release -> Pc;
+2. Clique em 2021_BemolTest_SignUpUser.exe.
 
 ## Visualizando o projeto
 
