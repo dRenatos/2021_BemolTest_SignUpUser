@@ -17,7 +17,7 @@ Para abrir o projeto você precisará de uma IDE(Ex: Visual Studio, Rider) ou fe
 ## Arquivo .txt com respostas discursivas do desafio
 
 O Arquivo encontra-se em 
-* Release -> Respostar_desafio.txt
+* Release -> Respostas_desafio.txt
 
 ## Diagrama C4 da solução do problema
 
